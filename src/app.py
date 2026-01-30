@@ -33,6 +33,7 @@ activities = {
         "max_participants": 15,
         "participants": []
     },
+    
     "Soccer Club": {
         "description": "Practice soccer skills and participate in matches",
         "schedule": "Mondays and Wednesdays, 3:00 PM - 5:00 PM",
